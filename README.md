@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**silviu-toderita/silviu-toderita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	
+	
+	+-----------------------------------------------------+
+	|(_)  o  o  o  o  o  o  o  o  o  o  o  o  o  o  o  (_)|
+	|     D0 D1 D2 D3 D4 3v Gd D5 D6 D7 D8 Rx Tx Gd 3v    |
+	|________________=__=__=___         -[]= = =[]-       |
+	|    []|              __   |    ____     =    fla[()] |
+	||     |   \  /\  /  |_    |  _|    |_   = +-----+ +----+
+	||___  |    \/  \/ i |  i  | |        |  = |     | |    |
+	| ___|||        ESP8266    | |________|  = |     | |    |
+	||___ ||  _  _  _          |  || || ||   = +-----+ |    |
+	| ___||| |_ |  |           |  []    =    = []  =   +----+
+	||____|| |  |_ |_802.11g/n |  +----+     =     =      |
+	|______|___________________|  |    |     =    rst[()] |
+	|                             +----+     =  -=-       |
+	| _   A0 Rv Rv S3 S2 S1 Cm S0 Cl Gd 3v En Rs Gd Vi  _ |
+	|(_)  o  o  o  o  o  o  o  o  o  o  o  o  o  o  o  (_)|
+	+-----------------------------------------------------+
